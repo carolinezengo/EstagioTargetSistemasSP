@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "wQjJVCjHGxBqVHk/cJcV/kdYOdGpp0Zc7SJd4tsHojjjLRSpCBIl1v+pdql+e0oNZwxtP/HqzdJnJ1W/RIZzJA==",
+  "dgSpecHash": "GWswY/Zv4JhwVkVrd8fTQes0vayAi+goA2oVJAGdbpeQoBm5jVo0pwjyNEcrP8Rb8tdU+ReSVxbOVaS2deZp9w==",
   "success": true,
   "projectFilePath": "C:\\teste\\estagio2\\estagio2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -32,12 +32,12 @@ using estagio2.InverterChar;
 
     break;
       case 3:
-       var faturamentoMenor = new Faturamento();
+      var faturamentoMenor = new Faturamento();
        faturamentoMenor.MenorFaturamento();
        var faturamentoMaior = new Faturamento();
        faturamentoMaior.MaiorFaturamento();
-         var faturamentoMedia = new Faturamento();
-       faturamentoMedia.MediaFaturamento();
+        var faturamentoMedia = new Faturamento();
+      faturamentoMedia.MediaFaturamento();
         
          
          break;

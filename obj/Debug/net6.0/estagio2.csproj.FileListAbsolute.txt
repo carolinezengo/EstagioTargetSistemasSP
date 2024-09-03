@@ -13,3 +13,5 @@ C:\teste\estagio2\obj\Debug\net6.0\refint\estagio2.dll
 C:\teste\estagio2\obj\Debug\net6.0\estagio2.pdb
 C:\teste\estagio2\obj\Debug\net6.0\estagio2.genruntimeconfig.cache
 C:\teste\estagio2\obj\Debug\net6.0\ref\estagio2.dll
+C:\teste\estagio2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\teste\estagio2\obj\Debug\net6.0\estagio2.csproj.CopyComplete
