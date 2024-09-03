@@ -1,0 +1,15 @@
+C:\teste\estagio2\bin\Debug\net6.0\estagio2.exe
+C:\teste\estagio2\bin\Debug\net6.0\estagio2.deps.json
+C:\teste\estagio2\bin\Debug\net6.0\estagio2.runtimeconfig.json
+C:\teste\estagio2\bin\Debug\net6.0\estagio2.dll
+C:\teste\estagio2\bin\Debug\net6.0\estagio2.pdb
+C:\teste\estagio2\obj\Debug\net6.0\estagio2.csproj.AssemblyReference.cache
+C:\teste\estagio2\obj\Debug\net6.0\estagio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\teste\estagio2\obj\Debug\net6.0\estagio2.AssemblyInfoInputs.cache
+C:\teste\estagio2\obj\Debug\net6.0\estagio2.AssemblyInfo.cs
+C:\teste\estagio2\obj\Debug\net6.0\estagio2.csproj.CoreCompileInputs.cache
+C:\teste\estagio2\obj\Debug\net6.0\estagio2.dll
+C:\teste\estagio2\obj\Debug\net6.0\refint\estagio2.dll
+C:\teste\estagio2\obj\Debug\net6.0\estagio2.pdb
+C:\teste\estagio2\obj\Debug\net6.0\estagio2.genruntimeconfig.cache
+C:\teste\estagio2\obj\Debug\net6.0\ref\estagio2.dll
