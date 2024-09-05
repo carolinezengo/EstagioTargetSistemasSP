@@ -19,7 +19,7 @@ namespace estagio2.Faturamento
         public double media;
         public double soma;
         public int i,dias = 0;
-        
+      int[] diasFaturamentoMaior = new int[50];
          string conteudo =  File.ReadAllText("Faturamento/faturamento.json");
        
           public void MaiorFaturamento(){ 
@@ -66,15 +66,19 @@ namespace estagio2.Faturamento
             }
             
             media = soma /i;
+          
            foreach (Valores z in listaValores)  
             {
                  if(z.valor > media && z.valor != 0)
                  {
                  dias = dias+1;
+                                 
+   
                  }
                   
                                                   
             }
+
          Console.WriteLine("Media faturamento é: "+ media.ToString("F2"));
          Console.WriteLine("Quantidade de dias superior a media mensal: "+ dias);
        
