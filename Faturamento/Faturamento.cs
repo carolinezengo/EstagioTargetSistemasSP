@@ -41,7 +41,7 @@ namespace estagio2.Faturamento
                  List<Valores> listaValores = JsonConvert.DeserializeObject<List<Valores>>(conteudo);
                foreach (Valores z in listaValores)  
                {
-                if (z.valor != 0 || z.valor < faturamento)
+                if (z.valor != 0 && z.valor < faturamento)
                 {
                     faturamento = z.valor;
                 }
@@ -53,6 +53,7 @@ namespace estagio2.Faturamento
       }
 
          public void MediaFaturamento(){  
+            
           List<Valores> listaValores = JsonConvert.DeserializeObject<List<Valores>>(conteudo);
          foreach (Valores z in listaValores)  
             {
@@ -65,7 +66,7 @@ namespace estagio2.Faturamento
                    
             }
             
-            media = soma /i;
+            media = soma / i;
           
            foreach (Valores z in listaValores)  
             {

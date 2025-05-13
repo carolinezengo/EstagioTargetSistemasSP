@@ -4,8 +4,8 @@ using estagio2.Faturamento;
 using estagio2.FaturamentoDistribuidora;
 using estagio2.InverterChar;
 
-   Console.WriteLine("1- Fabonacci: exercicio 1");
-   Console.WriteLine("2- Soma da variavel: exercicio 2");
+   Console.WriteLine("1- Soma da variavel: exercicio 1");
+   Console.WriteLine("2- Fabonacci: exercicio 2");
    Console.WriteLine("3- Faturamento: exercicio 3");
   Console.WriteLine("4- Faturamento das Distribuidoras: exercicio 4");
   Console.WriteLine("5- Invertendo caracters: exercicio 5");
@@ -15,20 +15,22 @@ using estagio2.InverterChar;
  switch(opcao) 
  {
   case 1:
+  
+         var soma = new SomaVariavel();
+       soma.SomaVariaveis();
+        
+    break;
+  case 2:
+
   Console.WriteLine("\nSequência de Fibonacci");
 
     Console.WriteLine("Digite o elemento para ver se pertence a Fabonacci");
       Console.WriteLine("Digite o numero do elemento");
          int n = int.Parse(Console.ReadLine());
-
-          var numero = new Fibonacci();
+         var numero = new Fibonacci();
          numero.Teste(n);
-        
-        
-    break;
-  case 2:
-    var soma = new SomaVariavel();
-       soma.SomaVariaveis();
+
+   
 
     break;
       case 3:
