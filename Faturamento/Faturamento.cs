@@ -72,7 +72,7 @@ namespace estagio2.Faturamento
             {
                  if(z.valor > media && z.valor != 0)
                  {
-                 dias = dias+1;
+                 dias = dias + 1;
                                  
    
                  }
